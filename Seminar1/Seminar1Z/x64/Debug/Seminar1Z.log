@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Simionescu Alexandru\OneDrive\Desktop\SDDseminariiZ\Seminar1\Seminar1Z\Source.c(17,26): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Simionescu Alexandru\OneDrive\Desktop\SDDseminariiZ\Seminar1\Seminar1Z\Source.c(19,2): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+  Seminar1Z.vcxproj -> C:\Users\Simionescu Alexandru\OneDrive\Desktop\SDDseminariiZ\Seminar1\x64\Debug\Seminar1Z.exe
