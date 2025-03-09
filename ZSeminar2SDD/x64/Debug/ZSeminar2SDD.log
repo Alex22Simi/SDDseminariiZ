@@ -1,0 +1,9 @@
+﻿  Seminar2.c
+C:\Users\Simionescu Alexandru\source\repos\ZSeminar2SDD\ZSeminar2SDD\Seminar2.c(549,27): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Simionescu Alexandru\source\repos\ZSeminar2SDD\ZSeminar2SDD\Seminar2.c(550,3): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+C:\Users\Simionescu Alexandru\source\repos\ZSeminar2SDD\ZSeminar2SDD\Seminar2.c(605,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Simionescu Alexandru\source\repos\ZSeminar2SDD\ZSeminar2SDD\Seminar2.c(625,51): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Simionescu Alexandru\source\repos\ZSeminar2SDD\ZSeminar2SDD\Seminar2.c(626,47): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Simionescu Alexandru\source\repos\ZSeminar2SDD\ZSeminar2SDD\Seminar2.c(627,48): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Simionescu Alexandru\source\repos\ZSeminar2SDD\ZSeminar2SDD\Seminar2.c(638,45): warning C4305: 'function': truncation from 'double' to 'float'
+  ZSeminar2SDD.vcxproj -> C:\Users\Simionescu Alexandru\source\repos\ZSeminar2SDD\x64\Debug\ZSeminar2SDD.exe
