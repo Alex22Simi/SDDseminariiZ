@@ -1,0 +1,3 @@
+﻿  Seminar4c.c
+C:\Users\Simionescu Alexandru\source\repos\Seminar4sddZ\Seminar4sddZ\Seminar4c.c(35,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Seminar4sddZ.vcxproj -> C:\Users\Simionescu Alexandru\source\repos\Seminar4sddZ\x64\Debug\Seminar4sddZ.exe

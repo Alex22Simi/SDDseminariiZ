@@ -1,0 +1,7 @@
+﻿  Seminar3Z.c
+C:\Users\Simionescu Alexandru\source\repos\Seminar3SDDz\Seminar3SDDz\Seminar3Z.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Users\Simionescu Alexandru\source\repos\Seminar3SDDz\Seminar3SDDz\Seminar3Z.c(1,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Simionescu Alexandru\source\repos\Seminar3SDDz\Seminar3SDDz\Seminar3Z.c(64,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Seminar3SDDz.vcxproj -> C:\Users\Simionescu Alexandru\source\repos\Seminar3SDDz\x64\Debug\Seminar3SDDz.exe

@@ -1,0 +1,4 @@
+﻿  Seminar5Z.c
+C:\Users\Simionescu Alexandru\source\repos\Seminar5sddZ\Seminar5sddZ\Seminar5Z.c(42,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simionescu Alexandru\source\repos\Seminar5sddZ\Seminar5sddZ\Seminar5Z.c(164,25): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  Seminar5sddZ.vcxproj -> C:\Users\Simionescu Alexandru\source\repos\Seminar5sddZ\x64\Debug\Seminar5sddZ.exe
